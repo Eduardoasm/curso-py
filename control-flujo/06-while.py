@@ -1,10 +1,8 @@
-comando = ""
 
 # while comando != "salir":
 #     comando = input("$ ")
 #     print(comando)
 
-comando = ""
 while True:
     comando = input("$ ")
     print(comando)

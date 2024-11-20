@@ -8,7 +8,7 @@ suma = n1 + n2
 resta = n1 - n2
 mult = n1 * n2
 div = n1 / n2
-10
+
 descripcion = f"""
 el resultado de los 2 numeros de {n1} y {n2}
 el resultado de la suma es {suma}
